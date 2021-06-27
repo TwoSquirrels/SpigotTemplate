@@ -4,8 +4,7 @@ Kotlinを使用したSpigotプラグインのテンプレート
 
 ## License
 
-[Apache License 2.0](/LICENSE)
-あ  
+[Apache License 2.0](/LICENSE)  
 
 ## Usage
 
@@ -17,7 +16,7 @@ Kotlinを使用したSpigotプラグインのテンプレート
 ```shell
 git clone https://github.com/TwoSquirrels/SpigotTemplate.git ${directlyName}
 ```
-`${directlyName}`には任意のディレクトリ名を入力  
+`${directlyName}`には任意のディレクトリ名を入力。  
 
 3. プロジェクト固有の文字列を置き換える  
 (未定)  
